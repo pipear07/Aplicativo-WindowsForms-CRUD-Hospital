@@ -1,0 +1,21 @@
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.dll
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.dll
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.pdb
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.dll
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\ObjetodeNegocios\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.csproj.AssemblyReference.cache
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.dll
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\ObjetodeNegocios\obj\Debug\ObjetodeNegocios.pdb

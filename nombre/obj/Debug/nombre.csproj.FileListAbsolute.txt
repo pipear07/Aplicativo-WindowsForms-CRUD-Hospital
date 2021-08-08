@@ -1,0 +1,50 @@
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.csprojResolveAssemblyReference.cache
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.btnEditar.resources
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.Properties.Resources.resources
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.csproj.GenerateResource.Cache
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\bin\Debug\nombre.exe
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\bin\Debug\nombre.pdb
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\bin\Debug\ObjetodeNegocios.dll
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.exe
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.pdb
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.Buscador.resources
+C:\Users\pipea\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.LaHistoriaClinica.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.exe
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\bin\Debug\nombre.exe
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\bin\Debug\nombre.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\bin\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.csprojResolveAssemblyReference.cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.Buscador.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.btnEditar.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.LaHistoriaClinica.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.Properties.Resources.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2012\Projects\nombre\nombre\obj\Debug\nombre.csproj.GenerateResource.Cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\obj\Debug\nombre.exe
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\obj\Debug\nombre.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\bin\Debug\nombre.exe
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\bin\Debug\nombre.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\bin\Debug\ObjetodeNegocios.dll
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\obj\Debug\nombre.csprojResolveAssemblyReference.cache
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\obj\Debug\nombre.Buscador.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\obj\Debug\nombre.btnEditar.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\obj\Debug\nombre.LaHistoriaClinica.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\obj\Debug\nombre.Properties.Resources.resources
+C:\Users\Pipear07\OneDrive\Documents\Visual Studio 2015\Projects\nombre\nombre\obj\Debug\nombre.csproj.GenerateResource.Cache
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\bin\Debug\nombre.exe
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\bin\Debug\nombre.pdb
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\bin\Debug\ObjetodeNegocios.dll
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\bin\Debug\ObjetodeNegocios.pdb
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.csproj.AssemblyReference.cache
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.Buscador.resources
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.btnEditar.resources
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.LaHistoriaClinica.resources
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.Properties.Resources.resources
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.csproj.GenerateResource.cache
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.csproj.CoreCompileInputs.cache
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.csproj.CopyComplete
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.exe
+C:\Users\pipea\Documents\Doc. Andrés\Visual Studio 2015\Projects\CRUD - Programa .NET con SQL Server\nombre\obj\Debug\nombre.pdb
