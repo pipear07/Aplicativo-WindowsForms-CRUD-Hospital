@@ -3,7 +3,7 @@
  
  
  # Base de Datos - SQL Server 2015
-  Dentro del proyecto se deja el Back up de la base de datos llamada ConsultorioMedico (es un archivo que se llama ConsultorioMedico que termina en .bak), en ella encontraran todos los procedimientos almacenados, funciones, disparadores, modelo entidad relacion del proyecto. En cada procedimiento almacenado esta mi nombre, dandole un orden y un nombre adecuado para diferenciarlos. 
+  Dentro del proyecto se deja el Back up de la base de datos llamada ConsultorioMedico (es un archivo que se llama ConsultorioMedico que termina en .bak), en ella encontraran todos los procedimientos almacenados, funciones, disparadores, vistas y modelo entidad relacion del proyecto. En cada procedimiento almacenado esta mi nombre, dandole un orden y un nombre adecuado para diferenciarlos. 
   
   Existen 17 tablas de las cuales, todas tienen LAS 5 FORMAS NORMALES que son : atomicidad, llave primaria, llave foranea, tablas de paso y atributos multivalorados. Tdodas las tablas tienen datos registrados, para verificar el funcionamiento del aplicativo
   
